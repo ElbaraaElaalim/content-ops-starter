@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: 560389. P2
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      My name’s Elbaraa Elaalim, I’m 15 years old student at James Bowie
+      Highschool. I have 3 brothers and 3 sisters, I’m the middle child. My
+      hobbies Drawing, playing games, and soccer. I love drawing about
+      landscapes, it’s my favorite type of art.
     actions:
       - label: About
         altText: ''
