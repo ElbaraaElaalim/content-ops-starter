@@ -12,11 +12,18 @@ sections:
           textAlign: center
     subtitle: My Artist Statement
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      I create art about landscapes, different worlds, and ruins because I love
+      how nature and old buildings tell stories. When I see ruins or places that
+      have been forgotten, I think about what they used to be like and how time
+      or nature has changed them. My artwork focuses on showing the beauty of
+      nature mixed with the past, especially through old or broken down
+      structures.
+
+
+      I use different materials to make my art, like paint and textures to show
+      how nature takes over old structures and how both are connected. I want my
+      art to make people think about how things change over time, and how most
+      ruined places can still hold some beauty and meanings in them.
     actions:
       - type: Button
         label: See open positions
