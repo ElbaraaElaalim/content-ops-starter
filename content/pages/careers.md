@@ -24,13 +24,7 @@ sections:
       how nature takes over old structures and how both are connected. I want my
       art to make people think about how things change over time, and how most
       ruined places can still hold some beauty and meanings in them.
-    actions:
-      - type: Button
-        label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
