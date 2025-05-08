@@ -5,14 +5,7 @@
         "type": "ImageBlock"
     },
     "text": "Website by: Elbaraa Elaalim\n",
-    "socialLinks": [
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [
         {
             "label": "Terms",
