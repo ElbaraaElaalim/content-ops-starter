@@ -16,7 +16,7 @@ sections:
     actions:
       - label: About
         altText: ''
-        url: 'https://elbaraaportfolio.netlify.app/careers/'
+        url: \careers
         showIcon: false
         icon: arrowRight
         iconPosition: right
