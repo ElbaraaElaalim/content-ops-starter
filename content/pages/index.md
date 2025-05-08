@@ -78,7 +78,8 @@ sections:
         textAlign: left
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: >-
+        /images/900_Fantasy-Art_wizarden_Beautiful_landscape_cherry_blossom_trees.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
