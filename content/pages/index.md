@@ -76,6 +76,14 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
   - title:
       text: Social Media Management
       color: text-dark
