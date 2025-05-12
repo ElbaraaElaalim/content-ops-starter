@@ -1,9 +1,9 @@
 {
     "type": "Person",
-    "name": "Faizah Chan",
-    "role": "Co-founder & CEO",
+    "name": "2nd Isometric View",
+    "role": "House",
     "image": {
-        "url": "/images/avatar2.svg",
+        "url": "/images/Screenshot 2025-05-08 103544.png",
         "altText": "Faizah Chan",
         "styles": {
             "self": {
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": ""
 }

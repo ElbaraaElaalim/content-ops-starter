@@ -1,9 +1,9 @@
 {
     "type": "Person",
-    "name": "Harrison Tally",
-    "role": "Co-founder & CEO",
+    "name": "Labels",
+    "role": "House",
     "image": {
-        "url": "/images/avatar6.svg",
+        "url": "/images/Screenshot 2025-01-29 093138.png",
         "altText": "Harrison Tally",
         "styles": {
             "self": {
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": ""
 }

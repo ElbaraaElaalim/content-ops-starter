@@ -1,9 +1,9 @@
 {
     "type": "Person",
-    "name": "Asher Schmitt",
-    "role": "Co-founder & CEO",
+    "name": "Labels",
+    "role": "House Top View",
     "image": {
-        "url": "/images/avatar3.svg",
+        "url": "/images/Screenshot 2025-05-08 103552.png",
         "altText": "Asher Schmitt",
         "styles": {
             "self": {
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": ""
 }
