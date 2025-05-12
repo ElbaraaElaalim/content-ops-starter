@@ -28,7 +28,7 @@ sections:
       - type: Button
         label: Home
         altText: ''
-        url: /Home
+        url: /
         showIcon: false
         icon: arrowRight
         iconPosition: right
