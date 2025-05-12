@@ -26,7 +26,7 @@ sections:
       ruined places can still hold some beauty and meanings in them.
     actions:
       - type: Button
-        label: Get started
+        label: Home
         altText: ''
         url: /elbaraaportfolio.netlify.app/
         showIcon: false
