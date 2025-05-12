@@ -28,7 +28,7 @@ sections:
       - type: Button
         label: Home
         altText: ''
-        url: /elbaraaportfolio.netlify.app/
+        url: /Home
         showIcon: false
         icon: arrowRight
         iconPosition: right
