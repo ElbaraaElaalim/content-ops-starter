@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Section subtitle
+    subtitle: Special Section
     text: ''
     actions: []
     colors: bg-neutral-fg-dark
