@@ -48,7 +48,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Art
+      text: Things About me
       color: text-dark
       styles:
         self:
