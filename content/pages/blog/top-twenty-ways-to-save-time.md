@@ -1,7 +1,7 @@
 ---
 title: Top 20 Ways to Save Time at Work This Year
 slug: top-twenty-ways-to-save-time
-date: ''
+date: '2025-05-16'
 excerpt: >-
   Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis
   aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia
