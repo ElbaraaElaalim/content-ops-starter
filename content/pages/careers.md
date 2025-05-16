@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: 3D Models done on Revit and 3d
+    subtitle: 3D Models done on Revit and 3dhomestyler
     text: ''
     actions:
       - type: Button
