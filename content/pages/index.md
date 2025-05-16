@@ -13,7 +13,7 @@ sections:
     actions:
       - label: About
         altText: ''
-        url: \careers
+        url: \About
         showIcon: false
         icon: arrowRight
         iconPosition: right
