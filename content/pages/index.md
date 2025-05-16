@@ -23,7 +23,7 @@ sections:
       - type: Button
         label: Artist Statement
         altText: ''
-        url: /
+        url: /MyArtistStatement
         showIcon: false
         icon: arrowRight
         iconPosition: right
