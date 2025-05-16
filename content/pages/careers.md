@@ -11,19 +11,7 @@ sections:
         self:
           textAlign: center
     subtitle: 3D Models on Revit
-    text: >
-      I create art about landscapes, different worlds, and ruins because I love
-      how nature and old buildings tell stories. When I see ruins or places that
-      have been forgotten, I think about what they used to be like and how time
-      or nature has changed them. My artwork focuses on showing the beauty of
-      nature mixed with the past, especially through old or broken down
-      structures.
-
-
-      I use different materials to make my art, like paint and textures to show
-      how nature takes over old structures and how both are connected. I want my
-      art to make people think about how things change over time, and how most
-      ruined places can still hold some beauty and meanings in them.
+    text: ''
     actions:
       - type: Button
         label: Home
