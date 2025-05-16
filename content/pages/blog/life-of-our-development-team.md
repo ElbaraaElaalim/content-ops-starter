@@ -3,9 +3,10 @@ title: 'Name, Family, and Interests'
 slug: life-of-our-development-team
 date: '2025-05-16'
 excerpt: >-
-  Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
-  earum corporis id Quis esse est galisum officiis accusantium enim et
-  asperiores dolore.
+  My name’s Elbaraa Elaalim, I’m 15 years old student at James Bowie Highschool.
+  I have 3 brothers and 3 sisters, I’m the middle child. My hobbies Drawing,
+  playing games, and soccer. I love drawing about landscapes, it’s my favorite
+  type of art.
 featuredImage:
   url: /images/abstract-feature3.svg
   altText: Thumbnail
