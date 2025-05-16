@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Artist Statement
+title: MyWork
 sections:
   - type: GenericSection
     title:
