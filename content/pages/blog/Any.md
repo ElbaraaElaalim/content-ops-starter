@@ -1,6 +1,6 @@
 ---
 title: 'Name, Family, and Interests'
-slug: life-of-our-development-team
+slug: /Any
 date: '2025-05-16'
 excerpt: >-
   My name’s Elbaraa Elaalim, I’m 15 years old student at James Bowie Highschool.
