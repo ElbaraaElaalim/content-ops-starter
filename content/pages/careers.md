@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Artist Statement
+      text: My Work
       color: text-dark
       styles:
         self:
