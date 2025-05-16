@@ -24,7 +24,7 @@ sections:
        I use different materials to make my art, like paint and textures to show how nature takes over old structures and how both are connected. I want my art to make people think about how things change over time, and how most ruined places can still hold some beauty and meanings in them.
     actions:
       - type: Button
-        label: Get started
+        label: Home
         altText: ''
         url: /
         showIcon: false
