@@ -24,7 +24,7 @@ sections:
         elementId: ''
         type: Button
       - type: Button
-        label: Get started
+        label: Artist Statement
         altText: ''
         url: /
         showIcon: false
