@@ -24,8 +24,6 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: >-
-        /images/peaceful-landscape-painting-tranquil-river-flowing-lush-valley-surrounded-rolling-green-hills-wildflowers-362783242.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
