@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: 560389. P2
     text: |
-      Portfolio
+      James Bowie High School
     actions:
       - label: About
         altText: ''
