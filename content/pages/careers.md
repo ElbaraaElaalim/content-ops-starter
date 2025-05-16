@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: My Artist Statement
+    subtitle: 3D Models on Revit
     text: >
       I create art about landscapes, different worlds, and ruins because I love
       how nature and old buildings tell stories. When I see ruins or places that
