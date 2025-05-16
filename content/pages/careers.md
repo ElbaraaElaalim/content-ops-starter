@@ -48,7 +48,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: My Work
+      text: ''
       color: text-dark
       styles:
         self:
