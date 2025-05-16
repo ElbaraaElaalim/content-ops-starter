@@ -6,7 +6,7 @@ excerpt: >-
   Along with the love of painting and drawing landscapes, I also love doing 3D
   models in an application called Blender, or even Revit,
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/Encourage-kids-to-draw-post.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
