@@ -23,6 +23,15 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       altText: Unblock your team boost your time to production preview
       elementId: ''
