@@ -8,11 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 560389. P2
-    text: >
-      My name’s Elbaraa Elaalim, I’m 15 years old student at James Bowie
-      Highschool. I have 3 brothers and 3 sisters, I’m the middle child. My
-      hobbies Drawing, playing games, and soccer. I love drawing about
-      landscapes, it’s my favorite type of art.
+    text: |
+      Portfolio
     actions:
       - label: About
         altText: ''
