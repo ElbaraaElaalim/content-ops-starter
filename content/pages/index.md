@@ -32,7 +32,7 @@ sections:
       - type: Button
         label: My Work
         altText: ''
-        url: /
+        url: /careeers
         showIcon: false
         icon: arrowRight
         iconPosition: right
