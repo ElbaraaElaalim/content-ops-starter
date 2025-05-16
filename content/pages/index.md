@@ -33,7 +33,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Get started
+        label: My Work
         altText: ''
         url: /
         showIcon: false
